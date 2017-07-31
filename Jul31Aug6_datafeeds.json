@@ -1,0 +1,552 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/w_20170728_left_half-skinny_495x25.jpg",
+    "Exit Url": "/women/new-products",
+    "Headline": "<span style = \"color: #fff\">Nothing Like New</span>",
+    "Subline": "Start the season with key pieces to own now",
+    "EventLabel": "TRE|Women|wnothinglikenew|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/w_20170728_right_half-skinny_495x25.jpg",
+    "Exit Url": "/women/shoes/sneakers/special-price/",
+    "Headline": "<span style = \"color: #fff\">SNEAKERS Up To 60% Off</span>",
+    "Subline": "Get first dibs on these sneakers up to 60% off",
+    "EventLabel": "CAT|Women|wsneaksteals|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_NothingLikeNew_hero-banner_996x500_withSpaceForCTAs.jpg",
+    "Exit Url": "/women/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wnothinglikenew|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Feel_The_Breeze_360x420.jpg",
+    "Exit Url": "/women/clothing/sleeveless-blouses/",
+    "Headline": "FEEL THE BREEZE",
+    "Subline": "These sleeveless tops will give you the air of confidence you totally deserve",
+    "EventLabel": "TRE|Women|wfeelthebreeze|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Spot_That_Sports_620x420.jpg",
+    "Exit Url": "/women/sports/new-products/",
+    "Headline": "Spot that Sport",
+    "Subline": "Fresh styles and new gears ready to take a move",
+    "EventLabel": "CAT|Women|wspotthatsports|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_New_Neutrals_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/trends/new-neutrals",
+    "Headline": "NEW NEUTRALS",
+    "Subline": "Strut the streets in new neutral tones of navy, olive, blush and beige",
+    "EventLabel": "TRE|Women|wnewneutrals|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Think_Pink_CU2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=think-pink",
+    "Headline": "Think Pink",
+    "Subline": "We'll make you blush with these shoes, bags and accessories",
+    "EventLabel": "TRE|Women|wthinkpink|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_GlamItUp_360x420.jpg",
+    "Exit Url": "/women/beauty/new-products",
+    "Headline": "GLAM IT UP",
+    "Subline": "Effortlessly slay your beauty regimen with the latest beauty products onsite",
+    "EventLabel": "CAT|Women|wglamitup|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Sneakers_Steal_Onsite_CU4_-_620x420.jpg",
+    "Exit Url": "/women/shoes/sneakers/special-price/",
+    "Headline": "SNEAK STEALS",
+    "Subline": "Get first dibs on these sneakers up to 60% off",
+    "EventLabel": "CAT|Women|wsneaksteals|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_322x165_TommyHilfiger.jpg",
+    "Exit Url": "women/tommy-hilfiger-watches/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wTommyHilfiger|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_322x165_Melissa.jpg",
+    "Exit Url": "/women/shoes/melissa/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wMelissa|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_322x165_Anello.jpg",
+    "Exit Url": "/women/anello/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wAnello|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_322x165_SomethingBorrowed.jpg",
+    "Exit Url": "/women/new-products/something-borrowed",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wSomethingBorrowed|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_Dsk_322x165_sesura.jpg",
+    "Exit Url": "/women/sesura/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wSesura|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_Dsk_322x165_puma.jpg",
+    "Exit Url": "/women/puma/?sort=latest%20arrival&getSKU=PU758SH83GAMPH",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wPuma|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_Cat_Heels.jpg",
+    "Exit Url": "/women/shoes/heels/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wHeels|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_Cat_Sling_Bags.jpg",
+    "Exit Url": "/women/bags/sling-bags/",
+    "Headline": "Shop Sling Bags >",
+    "Subline": "Shop Sling Bags >",
+    "EventLabel": "CAT|Women|wSling Bags|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_Cat_Dresses.jpg",
+    "Exit Url": "/women/clothing/dresses/",
+    "Headline": "Shop Dresses >",
+    "Subline": "Shop Dresses >",
+    "EventLabel": "CAT|Women|wDresses|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_Cat_Make-up.jpg",
+    "Exit Url": "/women/beauty/make-up/",
+    "Headline": "Shop Make-up >",
+    "Subline": "Shop Make-up >",
+    "EventLabel": "CAT|Women|wMakeup|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_Cat_Sports_Clothing.jpg",
+    "Exit Url": "/women/sports/sports-clothing/",
+    "Headline": "Shop Sports Clothing >",
+    "Subline": "Shop Sports Clothing >",
+    "EventLabel": "CAT|Women|wSportsClothing|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_m_left_half-skinny_495x25.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "<span style = \"color: #fff\">Just Arrived</span>",
+    "Subline": "Kick-off the month with these wardrobe-worthy additions",
+    "EventLabel": "TRE|Men|mjustarrived|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_m_right_half-skinny_495x25.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=shoesbags-under1000",
+    "Headline": "<span style = \"color: #fff\">Bags + Shoes Below P1,500</span>",
+    "Subline": "Everyday essentials at prices you can't resist",
+    "EventLabel": "CAT|Men|mbagsshoesunder1500|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Hero_JustArrived_hero-banner_996x500.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|mjustarrived|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Bags_Shoes_Under_1500_360x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=shoesbags-under1000",
+    "Headline": "Bags + Shoes Below P1,500",
+    "Subline": "Everyday essentials at prices you can't resist",
+    "EventLabel": "CAT|Men|mbagsshoesunder1500|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Highstreet_edit_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=highstreet-brands",
+    "Headline": "High Street Edit",
+    "Subline": "Blur the line between casual and dapper with this range of fine clothing",
+    "EventLabel": "TRE|Men|mhighstreetedit|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Spot_That_Sport_996x250.jpg",
+    "Exit Url": "/men/sports/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Men|mspotthatsport|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170728_TommyHilfiger_322x165.jpg",
+    "Exit Url": "/men/tommy-hilfiger/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mTommyHilfiger|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Dsk_322x165_bench.jpg",
+    "Exit Url": "/men/bench/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mBench|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_B1-6_322x165_UnderArmour.jpg",
+    "Exit Url": "/men/under-armour/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mUnderArmour|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Dsk_322x165_oxygen.jpg",
+    "Exit Url": "/men/oxygen/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mOxygen|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Dsk_322x165_jaxon.jpg",
+    "Exit Url": "/men/jaxon/?sort=latest%20arrival",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mJaxon|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_20170728_CASIO_322x165.jpg",
+    "Exit Url": "/men/casio/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mCasio|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Cat_SportsShoes_300x198.jpg",
+    "Exit Url": "/men/sports/sports-footwear/?sort=latest%20arrival",
+    "Headline": "Shop Sports Shoes >",
+    "Subline": "Shop Sports Shoes >",
+    "EventLabel": "CAT|Men|mSportsShoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Cat_MessengerBags_300x198.jpg",
+    "Exit Url": "/men/bags/messenger-bags/?sort=latest%20arrival",
+    "Headline": "Shop Messenger Bags >",
+    "Subline": "Shop Messenger Bags >",
+    "EventLabel": "CAT|Men|mMessengerBags|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Cat_Shirts_375x500.jpg",
+    "Exit Url": "/men/clothing/shirts/?sort=latest%20arrival",
+    "Headline": "Shop Shirts >",
+    "Subline": "Shop Shirts >",
+    "EventLabel": "CAT|Men|mShirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Cat_Watches_300x198.jpg",
+    "Exit Url": "/men/watches/?sort=latest%20arrival",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "CAT|Men|mWatches|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Cat_Pants_300x198.jpg",
+    "Exit Url": "/men/clothing/pants/?sort=latest%20arrival",
+    "Headline": "Shop Pants >",
+    "Subline": "Shop Pants >",
+    "EventLabel": "CAT|Men|mPants|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_NothingLikeNew_mobileweb_skinnyGIF_700x200.jpg",
+    "Exit Url": "/women/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wnothinglikenew|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_NothingLikeNew_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/women/new-products",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wnothinglikenew|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Spot_That_Sports_620x420.jpg",
+    "Exit Url": "/women/sports/new-products/",
+    "Headline": "Spot that Sport",
+    "Subline": "Fresh styles and new gears ready to take a move",
+    "EventLabel": "CAT|Women|wspotthatsports|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Feel_The_Breeze_620x420.jpg",
+    "Exit Url": "/women/clothing/sleeveless-blouses/",
+    "Headline": "FEEL THE BREEZE",
+    "Subline": "These sleeveless tops will give you the air of confidence you totally deserve",
+    "EventLabel": "TRE|Women|wfeelthebreeze|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_Cat_Heels.jpg",
+    "Exit Url": "/women/shoes/heels/",
+    "Headline": "Shop Heels >",
+    "Subline": "Shop Heels >",
+    "EventLabel": "CAT|Women|wHeels|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_W_Cat_Sports_Clothing.jpg",
+    "Exit Url": "/women/sports/sports-clothing/",
+    "Headline": "Shop Sports Clothing >",
+    "Subline": "Shop Sports Clothing >",
+    "EventLabel": "CAT|Women|wSports Clothing|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Hero_JustArrived_mobileweb_skinnyGIF_700x200.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|mjustarrived|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Hero_JustArrived_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/men/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|mjustarrived|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Highstreet_edit_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=highstreet-brands",
+    "Headline": "High Street Edit",
+    "Subline": "Blur the line between casual and dapper with this range of fine clothing",
+    "EventLabel": "TRE|Men|mhighstreetedit|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Bags_Shoes_Under_1500_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=shoesbags-under1000",
+    "Headline": "Bags + Shoes Below P1,500",
+    "Subline": "Everyday essentials at prices you can't resist",
+    "EventLabel": "CAT|Men|mbagsshoesunder1500|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Cat_SportsShoes_300x198.jpg",
+    "Exit Url": "/men/sports/sports-footwear/?sort=latest%20arrival",
+    "Headline": "Shop Sports Shoes >",
+    "Subline": "Shop Sports Shoes >",
+    "EventLabel": "CAT|Men|mSportsShoes|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170728_M_Cat_Pants_300x198.jpg",
+    "Exit Url": "/men/clothing/pants/?sort=latest%20arrival",
+    "Headline": "Shop Pants >",
+    "Subline": "Shop Pants >",
+    "EventLabel": "CAT|Men|mPants|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_New_Neutrals_HP-bottom-banner_322x300.jpg",
+    "Exit Url": "/women/trends/new-neutrals",
+    "Headline": "NEW NEUTRALS",
+    "Subline": "Strut the streets in new neutrals tones of navy, olive, blush and beige",
+    "EventLabel": "TRE|Women|wnewneutrals|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Bags_Shoes_Under_1500_322x300.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=shoesbags-under1000",
+    "Headline": "Bags + Shoes Below P1,500",
+    "Subline": "Everyday essentials at prices you can't resist",
+    "EventLabel": "CAT|Men|mbagsshoesunder1500|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_GlamItUp_322x300.jpg",
+    "Exit Url": "/women/beauty/new-products",
+    "Headline": "GLAM IT UP",
+    "Subline": "Effortlessly slay your beauty regimen with the latest beauty products onsite",
+    "EventLabel": "CAT|Women|wglamitup|ALL|NA"
+  }
+]
