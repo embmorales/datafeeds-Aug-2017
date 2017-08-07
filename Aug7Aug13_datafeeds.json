@@ -1,0 +1,552 @@
+[
+  {
+    "Placement": "wsf1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "wsl1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_BackToBaesics_half-skinny-left_495x25.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=everyday-basics",
+    "Headline": "Back To Baesics",
+    "Subline": "Casual essentials for that fresh everyday look",
+    "EventLabel": "TRE|Women|wbacktobaesics|ALL|NA"
+  },
+  {
+    "Placement": "wsr1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_BackToBaesics_half-skinny-right_495x25.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=topbrands-15off",
+    "Headline": "Top Selections",
+    "Subline": "Shop from your favorite brands Mango, Esprit, Cotton on and more",
+    "EventLabel": "BRA|Women|wtopselection|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_BackToBaesics_hero-banner_996x500_withCTA.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=everyday-basics",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wbacktobaesics|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Odlo_ZAP_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/odlo/",
+    "Headline": "Odlo",
+    "Subline": "Reach your fitness goals with gears engineered in Switzerland",
+    "EventLabel": "BRA|Women|wodlo|ALL|ZAP"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Samsonite_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/samsonite-red/",
+    "Headline": "THIS JUST IN: SAMSONITE RED",
+    "Subline": "Accessories suited to new ideas, designed to help redefine the possible",
+    "EventLabel": "BRA|Women|wsamsonitered|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_wear_now_white_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=white-out",
+    "Headline": "WEAR NOW: WHITE",
+    "Subline": "Embrace the art of clean cut dressing",
+    "EventLabel": "TRE|Women|wwearnowwhite|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Brow_Beautiful_360x420.jpg",
+    "Exit Url": "/women/beauty/brows/",
+    "Headline": "BROW BEAUTIFUL",
+    "Subline": "Essential tools for your best beauty accessory",
+    "EventLabel": "BRA|Women|wbeautybrows|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Top_Selections_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=topbrands-15off",
+    "Headline": "Top Selections",
+    "Subline": "Shop from your favorite brands Mango, Esprit, Cotton on and more",
+    "EventLabel": "BRA|Women|wtopselection|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/CU4_Rainy_days_hues_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=rainy-day",
+    "Headline": "RAINY DAY HUES",
+    "Subline": "Our top picks to beat the weather blues",
+    "EventLabel": "TRE|Women|wrainydayhues|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_FB_Fiorelli_322x165.jpg",
+    "Exit Url": "/women/fiorelli/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wFiorelli|ALL|NA"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_FB_Shoebox_322X165.jpg",
+    "Exit Url": "/women/shoebox/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wShoebox|ALL|NA"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_FB_Perch_322X165.jpg",
+    "Exit Url": "/women/perch/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wPerch|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_FB_Kamiseta_322X165.jpg",
+    "Exit Url": "/women/kamiseta/new-products/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wKamiseta|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_FB_Furla_322X165.jpg",
+    "Exit Url": "/women/furla/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wFurla|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Dove_Featured_Banner_up_to_30_off.jpg",
+    "Exit Url": "/women/dove/special-price",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|wDove|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_300x198_Flats.jpg",
+    "Exit Url": "/women/shoes/flats",
+    "Headline": "Shop Flats >",
+    "Subline": "Shop Flats >",
+    "EventLabel": "BRA|Women|wFlats|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_300x198_Tote.jpg",
+    "Exit Url": "/women/bags/tote-bags/",
+    "Headline": "Shop Tote Bags >",
+    "Subline": "Shop Tote Bags >",
+    "EventLabel": "BRA|Women|wToteBags|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_375x500_Jumpsuit.jpg",
+    "Exit Url": "/women/clothing/jumpsuits/",
+    "Headline": "Shop Jumpsuits >",
+    "Subline": "Shop Jumpsuits >",
+    "EventLabel": "BRA|Women|wJumpsuits|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_300x198_Skincare.jpg",
+    "Exit Url": "/women/beauty/skincare/",
+    "Headline": "Shop Skincare >",
+    "Subline": "Shop Skincare >",
+    "EventLabel": "BRA|Women|wSkincare|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_300x198_Watches.jpg",
+    "Exit Url": "/women/watches/",
+    "Headline": "Shop Watches >",
+    "Subline": "Shop Watches >",
+    "EventLabel": "BRA|Women|wWatches|ALL|NA"
+  },
+  {
+    "Placement": "msf1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "msl1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_BackToBasics_half-skinny-left_495x25.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=topbrands-15off",
+    "Headline": "Top Selections",
+    "Subline": "Shop from your favorite brands Mango, Esprit, Cotton on and more",
+    "EventLabel": "BRA|Men|mtopselections|ALL|NA"
+  },
+  {
+    "Placement": "msr1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_BackToBasics_half-skinny-right_495x25.jpg",
+    "Exit Url": "/men/samsonite-red/",
+    "Headline": "THIS JUST IN: SAMSONITE RED",
+    "Subline": "Accessories suited to new ideas, designed to help redefine the possible",
+    "EventLabel": "BRA|Men|msamsonitered|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Back_To_Basics_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/men/trends/everyday-basics/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mBackToBasics|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Odlo_ZAP_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/odlo/",
+    "Headline": "Odlo",
+    "Subline": "Reach your fitness goals with gears engineered in Switzerland",
+    "EventLabel": "BRA|Women|wodlo|ALL|ZAP"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Samsonite_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/samsonite-red/",
+    "Headline": "THIS JUST IN: SAMSONITE RED",
+    "Subline": "Accessories suited to new ideas, designed to help redefine the possible",
+    "EventLabel": "BRA|Men|msamsonitered|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Top_Selection_996x250.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=topbrands-15off",
+    "Headline": "Top Selections",
+    "Subline": "Shop from your favorite brands Mango, Esprit, Cotton on and more",
+    "EventLabel": "BRA|Men|mtopselections|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_M_FB_Hollister_332x165.png",
+    "Exit Url": "/men/hollister/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mHollister|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20161013_Birkenstock_Featured-Brand.jpg",
+    "Exit Url": "/men/birkenstock/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mBirkenstock|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_M_FB_Caterpillar_322x165.jpg",
+    "Exit Url": "/men/caterpillar/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mCaterpillar|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_M_FB_OnitsukaTiger_322x165.jpg",
+    "Exit Url": "/men/onitsuka-tiger/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mOnitsuka tiger|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_M_FB_Invicta_322x165.jpg",
+    "Exit Url": "/men/invicta/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mInvicta|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_M_FB_Hoor_322x165.jpg",
+    "Exit Url": "/men/hoor/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mHoor|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Sports_Apparel.jpg",
+    "Exit Url": "/men/sports/sports-clothing/",
+    "Headline": "Shop Sports Apparel >",
+    "Subline": "Shop Sports Apparel >",
+    "EventLabel": "BRA|Men|mSportsApparel|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Backpacks.jpg",
+    "Exit Url": "/men/bags/backpacks/",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "BRA|Men|mBackpacks|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Polos.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/",
+    "Headline": "Shop Polos >",
+    "Subline": "Shop Polos >",
+    "EventLabel": "BRA|Men|mPolos|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Belts.jpg",
+    "Exit Url": "/men/accessories/belts/",
+    "Headline": "Shop Belts >",
+    "Subline": "Shop Belts >",
+    "EventLabel": "BRA|Men|mBelts|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Pants.jpg",
+    "Exit Url": "/men/clothing/jeans/",
+    "Headline": "Shop Jeans >",
+    "Subline": "Shop Jeans >",
+    "EventLabel": "BRA|Men|mJeans|ALL|NA"
+  },
+  {
+    "Placement": "ws1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_BackToBaesics_mobileweb_skinnyGIF_700x200.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=everyday-basics",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wbacktobaesics|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_BackToBaesics_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=everyday-basics",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|wbacktobaesics|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Samsonite_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/samsonite-red/",
+    "Headline": "THIS JUST IN: SAMSONITE RED",
+    "Subline": "Accessories suited to new ideas, designed to help redefine the possible",
+    "EventLabel": "BRA|Women|wsamsonitered|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Odlo_ZAP_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/odlo/",
+    "Headline": "Odlo",
+    "Subline": "Reach your fitness goals with gears engineered in Switzerland",
+    "EventLabel": "BRA|Women|wodlo|ALL|ZAP"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_300x198_Flats.jpg",
+    "Exit Url": "/women/shoes/flats",
+    "Headline": "Shop Flats >",
+    "Subline": "Shop Flats >",
+    "EventLabel": "BRA|Women|wFlats|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_300x198_Tote.jpg",
+    "Exit Url": "/women/bags/tote-bags/",
+    "Headline": "Shop Tote Bags >",
+    "Subline": "Shop Tote Bags >",
+    "EventLabel": "BRA|Women|wToteBags|ALL|NA"
+  },
+  {
+    "Placement": "ms1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_BackToBasics_700x200.jpg",
+    "Exit Url": "/men/trends/everyday-basics/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mBackToBasics|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_Back_To_Basics_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/men/trends/everyday-basics/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mBackToBasics|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Samsonite_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/samsonite-red/",
+    "Headline": "THIS JUST IN: SAMSONITE RED",
+    "Subline": "Accessories suited to new ideas, designed to help redefine the possible",
+    "EventLabel": "BRA|Men|msamsonitered|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_Odlo_ZAP_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/odlo/",
+    "Headline": "Odlo",
+    "Subline": "Reach your fitness goals with gears engineered in Switzerland",
+    "EventLabel": "BRA|Women|wodlo|ALL|ZAP"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Sports_Apparel.jpg",
+    "Exit Url": "/men/sports/sports-clothing/",
+    "Headline": "Shop Sports Apparel >",
+    "Subline": "Shop Sports Apparel >",
+    "EventLabel": "BRA|Men|mSportsApparel|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Backpacks.jpg",
+    "Exit Url": "/men/bags/backpacks/",
+    "Headline": "Shop Backpacks >",
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "BRA|Men|mBackpacks|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Unisex|homepagehero|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/M_backtobasics_322x300.jpg",
+    "Exit Url": "/men/trends/everyday-basics/",
+    "Headline": "Back to Basics",
+    "Subline": "Future-proof your wardrobe with these timeless essentials",
+    "EventLabel": "BRA|Men|mBackToBasics|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/HP_Rainy_days_hues_322x300.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=rainy-day",
+    "Headline": "RAINY DAY HUES",
+    "Subline": "Our top picks to beat the weather blues",
+    "EventLabel": "TRE|Women|wrainydayhues|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-ph.zacdn.com/cms/DY/W_wear_now_white_322x300.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=white-out",
+    "Headline": "WEAR NOW: WHITE",
+    "Subline": "Embrace the art of clean cut dressing",
+    "EventLabel": "TRE|Women|wwearnowwhite|ALL|NA"
+  }
+]
