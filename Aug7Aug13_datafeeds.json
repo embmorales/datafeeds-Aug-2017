@@ -363,11 +363,11 @@
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Polos.jpg",
-    "Exit Url": "/men/clothing/polo-shirts/",
-    "Headline": "Shop Polos >",
-    "Subline": "Shop Polos >",
-    "EventLabel": "BRA|Men|mPolos|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Pants.jpg",
+    "Exit Url": "/men/clothing/jeans/",
+    "Headline": "Shop Jeans >",
+    "Subline": "Shop Jeans >",
+    "EventLabel": "BRA|Men|mJeans|ALL|NA"
   },
   {
     "Placement": "mc4",
@@ -383,11 +383,11 @@
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Pants.jpg",
-    "Exit Url": "/men/clothing/jeans/",
-    "Headline": "Shop Jeans >",
-    "Subline": "Shop Jeans >",
-    "EventLabel": "BRA|Men|mJeans|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Polos.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/",
+    "Headline": "Shop Polos >",
+    "Subline": "Shop Polos >",
+    "EventLabel": "BRA|Men|mPolos|ALL|NA"
   },
   {
     "Placement": "ws1",
