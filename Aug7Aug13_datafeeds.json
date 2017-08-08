@@ -26,7 +26,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/W_BackToBaesics_half-skinny-right_495x25.jpg",
     "Exit Url": "/women/all-products/?cmpgn_five=topbrands-15off",
     "Headline": "Top Selections",
-    "Subline": "Style reductions from your favorite brands like  Mango, Esprit, Cotton On and more",
+    "Subline": "Shop from your favorite brands Mango, Esprit, Cotton on and more",
     "EventLabel": "BRA|Women|wtopselection|ALL|NA"
   },
   {
@@ -53,7 +53,7 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_Samsonite_v1_women.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Women_Samsonite_N2_NEWARRIVALS_620x420.jpg",
     "Exit Url": "/women/samsonite-red/",
     "Headline": "THIS JUST IN: SAMSONITE RED",
     "Subline": "Accessories suited to new ideas, designed to help redefine the possible",
@@ -86,7 +86,7 @@
     "Image": "https://static-ph.zacdn.com/cms/DY/M_Top_Selections_N1_NEWARRIVALS_360x420.jpg",
     "Exit Url": "/women/all-products/?cmpgn_five=topbrands-15off",
     "Headline": "Top Selections",
-    "Subline": "Style reductions from your favorite brands like  Mango, Esprit, Cotton On and more",
+    "Subline": "Shop from your favorite brands Mango, Esprit, Cotton on and more",
     "EventLabel": "BRA|Women|wtopselection|ALL|NA"
   },
   {
@@ -263,7 +263,7 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/N2_NEWARRIVALS_620x420_Samsonite_v1_men.jpg",
+    "Image": "https://static-ph.zacdn.com/cms/DY/Men_Samsonite_N2_NEWARRIVALS_620x420.jpg",
     "Exit Url": "/men/samsonite-red/",
     "Headline": "THIS JUST IN: SAMSONITE RED",
     "Subline": "Accessories suited to new ideas, designed to help redefine the possible",
@@ -363,11 +363,11 @@
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Pants.jpg",
-    "Exit Url": "/men/clothing/jeans/",
-    "Headline": "Shop Jeans >",
-    "Subline": "Shop Jeans >",
-    "EventLabel": "BRA|Men|mJeans|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Polos.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/",
+    "Headline": "Shop Polos >",
+    "Subline": "Shop Polos >",
+    "EventLabel": "BRA|Men|mPolos|ALL|NA"
   },
   {
     "Placement": "mc4",
@@ -383,11 +383,11 @@
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Polos.jpg",
-    "Exit Url": "/men/clothing/polo-shirts/",
-    "Headline": "Shop Polos >",
-    "Subline": "Shop Polos >",
-    "EventLabel": "BRA|Men|mPolos|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/20170804_W_Cat_Pants.jpg",
+    "Exit Url": "/men/clothing/jeans/",
+    "Headline": "Shop Jeans >",
+    "Subline": "Shop Jeans >",
+    "EventLabel": "BRA|Men|mJeans|ALL|NA"
   },
   {
     "Placement": "ws1",
