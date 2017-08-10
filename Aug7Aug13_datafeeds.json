@@ -13,11 +13,11 @@
     "Placement": "wsl1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/W_BackToBaesics_half-skinny-left_495x25.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=everyday-basics",
-    "Headline": "Back To Baesics",
-    "Subline": "Casual essentials for that fresh everyday look",
-    "EventLabel": "TRE|Women|wbacktobaesics|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Adidas_Stan_Smith_Pharrell_Williams_Skinny_495x25.jpg",
+    "Exit Url": "/women/shoes/adidas/?getSKU=AD678SH09IJAPH--AD678SH08IJBPH--AD678SH47IHOPH--AD678SH48IHNPH--AD678SH07IJCPH--AD678SH43IHSPH--AD678SH39IHWPH--AD678SH11IIYPH--AD678SH10IIZPH--AD678SH38IHXPH--AD678SH40IHVPH",
+    "Headline": "Stan Smith X Pharrell Williams - Now on ZALORA",
+    "Subline": "Two classics. One inspired by the other",
+    "EventLabel": "BRA|Women|wadidasstansmithpharrellwilliams|ALL|NA"
   },
   {
     "Placement": "wsr1",
@@ -223,11 +223,11 @@
     "Placement": "msl1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-ph.zacdn.com/cms/DY/M_BackToBasics_half-skinny-left_495x25.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=topbrands-15off",
-    "Headline": "Top Selections",
-    "Subline": "Shop from your favorite brands Mango, Esprit, Cotton on and more",
-    "EventLabel": "BRA|Men|mtopselections|ALL|NA"
+    "Image": "https://static-ph.zacdn.com/cms/DY/Adidas_Stan_Smith_Pharrell_Williams_Skinny_495x25.jpg",
+    "Exit Url": "/men/shoes/adidas/?getSKU=AD678SH09IJAPH--AD678SH08IJBPH--AD678SH47IHOPH--AD678SH48IHNPH--AD678SH07IJCPH--AD678SH43IHSPH--AD678SH39IHWPH--AD678SH11IIYPH--AD678SH10IIZPH--AD678SH38IHXPH--AD678SH40IHVPH",
+    "Headline": "Stan Smith X Pharrell Williams - Now on ZALORA",
+    "Subline": "Two classics. One inspired by the other",
+    "EventLabel": "BRA|Men|madidasstansmithpharrellwilliams|ALL|NA"
   },
   {
     "Placement": "msr1",
